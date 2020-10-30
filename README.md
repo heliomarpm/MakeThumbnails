@@ -1,6 +1,6 @@
 # MakeThumbnails
 Gerar miniaturas de uma ou varias imagens
 
-[Capa](_prints/capa.png)
+![Capa](/_prints/capa.png?raw=true "Capa")
 
-[Output](_prints/output.png)
+![Output](_prints/output.png?raw=true "Outputs")
